@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="coste_servicio">Coste del servicio</string>
+    <string name="pregunta_servicio">¿Qué tal estuvo el servicio?</string>
+    <string name="asombroso">Asombroso (20%)</string>
+    <string name="bueno">Bueno (18%)</string>
+    <string name="aceptable">Aceptable (15%)</string>
+    <string name="redondeo">¿Deseas redondear la propina?</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="cantidad_propina">Cantidad de propina: %s</string>
+
+</resources>
